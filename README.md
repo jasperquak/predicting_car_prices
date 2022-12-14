@@ -1,4 +1,4 @@
-# Predicting Car Prices
+# Predicting car prices
 
 In this project, we'll predict car prices based on a set of car features, using the k-nearest neighbor algorithm.
 
